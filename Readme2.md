@@ -12,9 +12,7 @@
 
 ## Connect with me:
 
-<a href="https://www.medium.com/@ketanaggarwal58/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%23191919.svg?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
 
-<a href="https://twitter.com/KetanAggarwal17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <a href="https://leetcode.com/ketanaggarwal58/" target="_blank"><img alt="Leet Code" src="https://img.shields.io/badge/leetcode-%23191919.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
