@@ -8,7 +8,7 @@
 - 🥅 2022 Goal: Learn Machine Learning
 - ⚡ Fun fact: I love to write
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ketanAggarwal58.ketanAggarwal58)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aditya-raj-handa.aditya-raj-handa)
 
 ## Connect with me:
 
